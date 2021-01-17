@@ -5,7 +5,7 @@
 A young developer looking to always improve myself. 
 
 > “I'm watching a dream I'll never wake up from.”
-> ― Spike Speigel
+> ― Spike Spiegel
 
 1. PHP
       * Laravel
