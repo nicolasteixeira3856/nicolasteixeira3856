@@ -23,3 +23,8 @@ A young developer looking to always improve myself.
 :notebook: I’m currently learning more about: Docker, native Android development, api, nodejs and vuejs
 
 :computer: My favorite Linux distro is Fedora 
+
+Contact me 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nícolas%Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nícolas-teixeira-293446124/)](https://www.linkedin.com/in/nícolas-teixeira-293446124/) 
+[![Gmail Badge](https://img.shields.io/badge/-nicolasteixeira3856@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasteixeira3856@outlook.com)](mailto:nicolasteixeira3856@outlook.com)
