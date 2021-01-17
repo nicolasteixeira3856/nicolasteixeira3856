@@ -8,15 +8,15 @@ A young developer looking to always improve myself.
 > ― Spike Speigel
 
 1. PHP
-      1. Laravel
+      * Laravel
 1. CSS
 1. SCSS
 1. JavaScript
-      1. JQuery
-      1. VueJS
-      1. React
-      1. React Native
-      1. Node
+      * JQuery
+      * VueJS
+      * React
+      * React Native
+      * Node
 1. Docker
 1. Linux
 
