@@ -25,4 +25,4 @@ A young developer looking to always improve myself.
 :computer: My favorite Linux distro is Fedora 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nícolas%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nícolas-teixeira-293446124/)](https://www.linkedin.com/in/nícolas-teixeira-293446124/) 
-[![Gmail Badge](https://img.shields.io/badge/-nicolasteixeira3856@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolasteixeira3856@outlook.com)](mailto:nicolasteixeira3856@outlook.com)
+[![Gmail Badge](https://img.shields.io/badge/-nicolasteixeira3856@outlook.com-6633cc?style=flat-square&logo=Outlook&logoColor=white&link=mailto:nicolasteixeira3856@outlook.com)](mailto:nicolasteixeira3856@outlook.com)
