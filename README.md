@@ -20,15 +20,15 @@ A young developer looking to always improve myself.
 1. Docker
 1. Linux
 
+:notebook: I’m currently learning more about: Docker, native Android development, api, nodejs and vuejs
+
+:computer: My favorite Linux distro is Fedora 
+
 Some stats
 
 [![Nicolas github stats](https://github-readme-stats.vercel.app/api?username=nicolasteixeira3856&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)\
 [![Nicolas wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolasteixeira3856&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasteixeira3856&langs_count=8&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-:notebook: I’m currently learning more about: Docker, native Android development, api, nodejs and vuejs
-
-:computer: My favorite Linux distro is Fedora 
 
 Contact me
 
