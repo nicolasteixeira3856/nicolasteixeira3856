@@ -4,19 +4,19 @@
 
 A young developer looking to always improve myself. 
 
-> “Whatever happens, happens.”
-> ― Keiko Nobumoto
+> “I'm watching a dream I'll never wake up from.”
+> ― Spike Speigel
 
 1. PHP
-   1. Laravel
+      1. Laravel
 1. CSS
 1. SCSS
 1. JavaScript
-   1. JQuery
-   1. VueJS
-   1. React
-   1. React Native
-   1. Node
+      1. JQuery
+      1. VueJS
+      1. React
+      1. React Native
+      1. Node
 1. Docker
 1. Linux
 
