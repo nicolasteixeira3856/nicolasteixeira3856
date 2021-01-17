@@ -1,6 +1,6 @@
 ### Nícolas Teixeira :sushi:
 
-:pushpin: Brazil, Paraná - Curitiba
+:pushpin: Brazil, Curitiba/PR
 
 A young developer looking to always improve myself. 
 
