@@ -13,9 +13,6 @@ A young developer looking to always improve myself.
 1. SCSS
 1. JavaScript
       * JQuery
-      * VueJS
-      * React
-      * React Native
       * Node
 1. Docker
 1. Linux
