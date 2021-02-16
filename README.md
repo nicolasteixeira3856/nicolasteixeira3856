@@ -17,7 +17,7 @@ A young developer looking to always improve myself.
 1. Docker
 1. Linux
 
-:notebook: I’m currently learning more about: Docker, native Android development, api, nodejs and vuejs
+:notebook: I’m currently learning more about: Android development and nodejs 
 
 :computer: My favorite Linux distro is Fedora 
 
