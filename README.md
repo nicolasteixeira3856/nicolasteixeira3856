@@ -7,19 +7,27 @@ A young developer looking to always improve myself.
 > “I'm watching a dream I'll never wake up from.”
 > ― Spike Spiegel
 
-1. PHP
+1. Android
+     * EventBus
+     * Room
+     * MVVM
+     * Data Binding
+2. Java
+3. Dart
+4. Flutter
+5. PHP
       * Laravel
-1. CSS
-1. SCSS
-1. JavaScript
+6. CSS
+7. JavaScript
       * JQuery
-      * Node
-1. Docker
-1. Linux
+      * NodeJS
+8. Linux
 
-:notebook: I’m currently learning more about: Android development and nodejs 
+:notebook: I’m currently learning more about: Android, Java, Flutter and Dart
 
-:computer: My favorite Linux distro is Fedora 
+:robot: Looking forward to start studying Kotlin
+
+:eyes: My favorite Linux distro is Fedora 
 
 Some stats
 
