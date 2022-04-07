@@ -12,20 +12,20 @@ A young developer looking to always improve myself.
      * Room
      * MVVM
      * Data Binding
+     * Jetpack Compose
 2. Java
-3. Dart
-4. Flutter
-5. PHP
+3. Kotlin
+5. Dart
+6. Flutter
+7. PHP
       * Laravel
-6. CSS
-7. JavaScript
+8. CSS
+9. JavaScript
       * JQuery
       * NodeJS
-8. Linux
+10. Linux
 
-:notebook: I’m currently learning more about: Android, Java, Flutter and Dart
-
-:robot: Looking forward to start studying Kotlin
+:robot: Currently studying Flutter, Kotlin and Software Architecture
 
 :eyes: My favorite Linux distro is Fedora 
 
