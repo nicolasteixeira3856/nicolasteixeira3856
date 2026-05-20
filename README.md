@@ -2,7 +2,7 @@
 
 :pushpin: Brazil, Curitiba/PR
 
-A young developer looking to always improve myself. 
+A developer looking to always improve myself. 
 
 > “I'm watching a dream I'll never wake up from.”
 > ― Spike Spiegel
